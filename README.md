@@ -1,4 +1,4 @@
-![CI](https://github.com/sensein/covid19/workflows/CI/badge.svg)
+![CI](https://github.com/satra/covid19/workflows/CI/badge.svg)
 
 
 This a protocol being used to assess impact of SARS-COV2 on speech production. 
